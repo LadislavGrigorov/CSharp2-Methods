@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\11-12.Polynomials\bin\Debug\11-12.Polynomials.exe.config
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\11-12.Polynomials\bin\Debug\11-12.Polynomials.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\11-12.Polynomials\bin\Debug\11-12.Polynomials.pdb
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\11-12.Polynomials\obj\Debug\11-12.Polynomials.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\11-12.Polynomials\obj\Debug\11-12.Polynomials.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\11-12.Polynomials\obj\Debug\11-12.Polynomials.pdb

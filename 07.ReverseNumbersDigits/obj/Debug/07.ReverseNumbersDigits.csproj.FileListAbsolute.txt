@@ -1,0 +1,5 @@
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\07.ReverseNumbersDigits\bin\Debug\07.ReverseNumbersDigits.exe.config
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\07.ReverseNumbersDigits\bin\Debug\07.ReverseNumbersDigits.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\07.ReverseNumbersDigits\bin\Debug\07.ReverseNumbersDigits.pdb
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\07.ReverseNumbersDigits\obj\Debug\07.ReverseNumbersDigits.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\07.ReverseNumbersDigits\obj\Debug\07.ReverseNumbersDigits.pdb

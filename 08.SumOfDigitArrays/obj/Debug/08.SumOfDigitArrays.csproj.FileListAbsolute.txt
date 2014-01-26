@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\08.SumOfDigitArrays\bin\Debug\08.SumOfDigitArrays.exe.config
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\08.SumOfDigitArrays\obj\Debug\08.SumOfDigitArrays.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\08.SumOfDigitArrays\bin\Debug\08.SumOfDigitArrays.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\08.SumOfDigitArrays\bin\Debug\08.SumOfDigitArrays.pdb
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\08.SumOfDigitArrays\obj\Debug\08.SumOfDigitArrays.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\08.SumOfDigitArrays\obj\Debug\08.SumOfDigitArrays.pdb

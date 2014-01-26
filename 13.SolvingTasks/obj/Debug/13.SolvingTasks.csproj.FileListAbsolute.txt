@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\13.SolvingTasks\bin\Debug\13.SolvingTasks.exe.config
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\13.SolvingTasks\bin\Debug\13.SolvingTasks.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\13.SolvingTasks\bin\Debug\13.SolvingTasks.pdb
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\13.SolvingTasks\obj\Debug\13.SolvingTasks.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\13.SolvingTasks\obj\Debug\13.SolvingTasks.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\13.SolvingTasks\obj\Debug\13.SolvingTasks.pdb

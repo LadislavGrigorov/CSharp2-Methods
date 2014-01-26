@@ -1,0 +1,5 @@
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\02.GetMaxTwoValues\bin\Debug\02.GetMaxTwoValues.exe.config
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\02.GetMaxTwoValues\bin\Debug\02.GetMaxTwoValues.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\02.GetMaxTwoValues\bin\Debug\02.GetMaxTwoValues.pdb
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\02.GetMaxTwoValues\obj\Debug\02.GetMaxTwoValues.exe
+D:\Telerik\C# Part 2\Methods\Methods Homework\MethodsHomework\02.GetMaxTwoValues\obj\Debug\02.GetMaxTwoValues.pdb
